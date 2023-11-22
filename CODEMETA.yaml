@@ -33,12 +33,12 @@ categories:
   # - performance-and-workflow
   - scientific-software
   # - simulation
-  # - tools
+  - tools
   # - visualization
 
 themes:
-  - Information Technology
-    - Data and informatics
+  # - Information Technology
+  #  - Data and informatics
   # - Advanced communications
   #     - Optical communications
   #     - Quantum communications
@@ -202,33 +202,33 @@ themes:
   #     - Systems integration
   #     - Technology commercialization
   #
-  # - Materials
+  - Materials
   #     - Ceramics
   #     - Composites
   #     - Concrete and cement
   #     - Materials characterization
   #         - Composition and structure
   #         - Magnetic properties
-  #         - Mechanical properties
+          - Mechanical properties
   #         - Thermal properties
   #     - Metals
   #     - Modeling and computational material science
   #     - Polymers
   #     - Superconductors
   #
-  # - Mathematics and Statistics
+  - Mathematics and Statistics
   #     - Experiment design
-  #     - Image and signal processing
+      - Image and signal processing
   #     - Mathematical knowledge management
   #     - Modeling and simulation research
   #     - Numerical methods and software
   #     - Statistical analysis
   #     - Uncertainty quantification
   #
-  # - Metrology
+  - Metrology
   #     - Acoustic/vibration metrology
   #     - Amount of substance
-  #     - Dimensional metrology
+      - Dimensional metrology
   #     - Electrical and electromagnetic metrology
   #     - Flow metrology and rheology
   #     - Force metrology
