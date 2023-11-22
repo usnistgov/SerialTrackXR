@@ -1,0 +1,9 @@
+%%%%%%%%%% How to run the SerialTrack-XR package %%%%%%%%%%%%%
+1. Stay on this path
+2. Open the main file "./main_hardpar_inc_xray_particles/"
+3. Prepare your images and place them in a subfolder for ease of accesss (but that can be anywhere you like)
+4. Update the main file "MPTPara.xstep" with the microns per pixel from your experiment
+5. Execute the main file(s) and follow prompts to read in images, do corrections and localize particles
+6. As needed, adjust parameters and re-run to assess performance (tracking can be sensitive to specifics)
+
+
