@@ -1,7 +1,7 @@
 # SerialTrack-X-ray 2D
 
 ## Purpose
-This repository contains scripts for running a custom implementation of ("SerialTrack",<https://github.com/FranckLab/SerialTrack>) designed for 2D X-ray projection images taken during in situ micro-X-ray computed tomography (XCT) experiments. The particle tracking-based technique allows for surface displacement and strain fields to be measured during, for example, mini-tensile test motions. This provides quantitative visualization of non-uniformities in the strain field (i.e., necking, shear banding), direct measurement of applied strain to supplement crosshead-based data, and quantification of system drift, among other uses. 
+This repository contains scripts for running a custom implementation of [SerialTrack](https://github.com/FranckLab/SerialTrack) designed for 2D X-ray projection images taken during in situ micro-X-ray computed tomography (XCT) experiments. The particle tracking-based technique allows for surface displacement and strain fields to be measured during, for example, mini-tensile test motions. This provides quantitative visualization of non-uniformities in the strain field (i.e., necking, shear banding), direct measurement of applied strain to supplement crosshead-based data, and quantification of system drift, among other uses. 
 
 ## Requirements and Content
 
