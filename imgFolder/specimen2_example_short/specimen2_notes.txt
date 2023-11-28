@@ -1,0 +1,4 @@
+This folder contain a series of images selected from the initial loading portion of Specimen 2 ("P2R1") in Fig. 7 of the manuscript.
+
+Images have already been brightfield corrected and intensity normalized.
+
